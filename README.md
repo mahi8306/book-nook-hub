@@ -30,3 +30,6 @@ This project was developed as part of an internship to understand modern fronten
 1. Clone the repository:
    ```bash
    git clone https://github.com/mani8306/book-nook-hub.git
+
+   ##Author
+   **Sahil Shrivastav
