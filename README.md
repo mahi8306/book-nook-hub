@@ -28,22 +28,30 @@ This project was developed as part of an internship to understand modern fronten
 ## How to Run the Project Locally
 
 1. Clone the repository:
+2. 
    ```bash
+   
    git clone https://github.com/mani8306/book-nook-hub.git
    
 2.Naviagtive to the project folder
+
 cd book-nook-hub
 
 3.Install dependencies
+
 npm install
 
 4.Run the project locally
+
 npm run dev
 
 
 Live Demo
+
 Check the live project here:
+
 https://merry-pie-fcc613.netlify.app
 
 ## Aurhor 
+
 Sahil Shrivastav
